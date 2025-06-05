@@ -1,2 +1,2 @@
 # How-To
-How to deploy simple web server
+How to deploy a simple web server
